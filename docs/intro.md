@@ -1,7 +1,3 @@
----
-#sidebar_position: 1
----
-
 # AIOps Proof of Technology
 
 Hands on experience using IBM Solutions with predefined scenarios.
